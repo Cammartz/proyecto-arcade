@@ -1,0 +1,118 @@
+/* Fuente Lubrifont 
+.wdxl-lubrifont-tc-regular {
+  font-family: "WDXL Lubrifont TC", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}   */
+
+/* font-family: "WDXL Lubrifont TC", sans-serif; */
+
+.bg-navbar-propio{
+    background-color:black;
+}
+
+.nav-link{
+    color: beige;
+}
+
+.navbar-nav{
+    font-family: "WDXL Lubrifont TC", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}  
+
+.navbar-toggler-icon{
+    background-color: rgb(91, 215, 234);
+    border-radius: 5px;
+}
+
+.logo{
+    width: 200px;
+}
+
+.navbar-collapse{
+    color: antiquewhite;
+}
+
+.titulo-main{
+    font-family: "WDXL Lubrifont TC", sans-serif;
+    color:honeydew;
+    font-size: 8vh;
+    padding-bottom: 20px;
+    text-shadow: 2px 2px 5px lightpink;
+}
+
+.sub-titulo{
+    font-family: "WDXL Lubrifont TC", sans-serif;
+    color: lightpink;
+    font-size: 6vh;
+}
+
+.sub-texto{
+    font-family: "WDXL Lubrifont TC", sans-serif;
+    color: powderblue;
+    font-size: 4vh;
+    padding-bottom: 0%;
+}
+
+.form-label{
+    color: honeydew;
+}
+
+main{
+    background-color: black;
+}
+
+img{
+    padding-bottom: 10px;
+    border-radius: 30px;
+}
+
+.nav{
+    background-color: black;
+}
+
+.d-flex{
+    padding: 0%;
+}
+
+a{
+    text-decoration: none;
+}
+
+.carousel {
+     width: 50%;
+     height: auto;
+     margin: auto;
+
+}
+
+.card-link{
+    text-decoration: none;
+    color: grey;
+}
+
+.acordeon{
+    background-color: lightpink;
+    border-radius: 20px;
+    font-family: "WDXL Lubrifont TC", sans-serif;
+}
+
+li{
+    text-decoration: none;
+    list-style-type: none;
+}
+
+.formulario{
+    width: 50vh;
+
+}
+
+video{
+    width: 50vh;
+    border-radius: 20px;
+}
+
+.logos{
+    width: 6vh;
+}
