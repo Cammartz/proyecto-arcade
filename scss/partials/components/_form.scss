@@ -1,0 +1,16 @@
+@use "../utilities/variables";
+
+.formulario{
+    width: 50%;
+}
+
+.form-label{
+    color: beige;
+}
+
+.btn{
+    background-color: variables.$color-secundario;
+    &:hover {
+        color: variables.$hover-color;
+    }
+}

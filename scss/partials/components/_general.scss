@@ -1,0 +1,17 @@
+@use "../utilities/variables";
+
+body{
+    background-color: variables.$color-principal;
+}
+
+img{
+    padding-bottom: 10px;
+    border-radius: 30px;
+}
+
+.ccarousel-inner{
+    width: variables.$img-width;
+    img{
+        margin: auto;
+    }
+}

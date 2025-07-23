@@ -1,0 +1,27 @@
+@import "../utilities/mixins";
+@import "../utilities/variables";
+@import "../base/tipografia";
+
+footer{
+    @include flex(row, space-between, center);
+    font-family: "WDXL Lubrifont TC", sans-serif;
+    padding: 4rem;
+    text-align: center;
+}
+
+.info{
+    text-decoration: none;
+    color: rgb(193, 138, 233);
+    list-style-type: none;
+}
+
+.redes{
+    text-decoration: none;
+    color: rgb(193, 138, 233);
+    list-style-type: none;
+}
+
+.logo-red{
+        width: 65px;
+        padding: 10px;
+    }

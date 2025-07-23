@@ -1,0 +1,36 @@
+@use "../utilities/variables";
+
+.bg-navbar-propio{
+    background-color: variables.$color-principal;
+}
+
+.nav-link{
+    color: beige;
+    &:hover {
+        color: variables.$hover-color;
+    }
+}
+
+.navbar-nav{
+    font-family: "WDXL Lubrifont TC", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}  
+
+.navbar-toggler-icon{
+    background-color: variables.$color-secundario;
+    border-radius: 5px;
+}
+
+.logo{
+    width: 200px;
+}
+
+.navbar-collapse{
+    color: antiquewhite;
+}
+
+.navbar{
+    background-image: linear-gradient(to right, black, rgb(146, 8, 245));
+    border-radius: 5px;
+}

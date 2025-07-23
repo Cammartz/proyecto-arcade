@@ -1,0 +1,23 @@
+@use "../utilities/variables";
+@use "../base/tipografia";
+
+.titulo-main{
+    font-family: "WDXL Lubrifont TC", sans-serif;
+    color:honeydew;
+    font-size: 8vh;
+    padding-bottom: 20px;
+    text-shadow: 2px 2px 5px lightpink;
+}
+
+.sub-titulo{
+    font-family: "WDXL Lubrifont TC", sans-serif;
+    color: lightpink;
+    font-size: 6vh;
+}
+
+.sub-texto{
+    font-family: "WDXL Lubrifont TC", sans-serif;
+    color: variables.$color-secundario;
+    font-size: 4vh;
+    padding-bottom: 0%;
+}
